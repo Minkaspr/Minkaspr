@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+> [!TIP]
+> ```bash
+> git clone https://github.com/Minkaspr/Estudiantes.git
+> ```
+
 <!--
 **Minkaspr/Minkaspr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
